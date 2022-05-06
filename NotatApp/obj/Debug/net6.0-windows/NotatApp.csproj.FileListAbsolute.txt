@@ -1,0 +1,17 @@
+D:\Code\GET Academy\Modul 3\NotatApp\NotatApp\bin\Debug\net6.0-windows\NotatApp.exe
+D:\Code\GET Academy\Modul 3\NotatApp\NotatApp\bin\Debug\net6.0-windows\NotatApp.deps.json
+D:\Code\GET Academy\Modul 3\NotatApp\NotatApp\bin\Debug\net6.0-windows\NotatApp.runtimeconfig.json
+D:\Code\GET Academy\Modul 3\NotatApp\NotatApp\bin\Debug\net6.0-windows\NotatApp.dll
+D:\Code\GET Academy\Modul 3\NotatApp\NotatApp\bin\Debug\net6.0-windows\NotatApp.pdb
+D:\Code\GET Academy\Modul 3\NotatApp\NotatApp\obj\Debug\net6.0-windows\NotatApp.csproj.AssemblyReference.cache
+D:\Code\GET Academy\Modul 3\NotatApp\NotatApp\obj\Debug\net6.0-windows\NotatApp.Form1.resources
+D:\Code\GET Academy\Modul 3\NotatApp\NotatApp\obj\Debug\net6.0-windows\NotatApp.csproj.GenerateResource.cache
+D:\Code\GET Academy\Modul 3\NotatApp\NotatApp\obj\Debug\net6.0-windows\NotatApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\GET Academy\Modul 3\NotatApp\NotatApp\obj\Debug\net6.0-windows\NotatApp.AssemblyInfoInputs.cache
+D:\Code\GET Academy\Modul 3\NotatApp\NotatApp\obj\Debug\net6.0-windows\NotatApp.AssemblyInfo.cs
+D:\Code\GET Academy\Modul 3\NotatApp\NotatApp\obj\Debug\net6.0-windows\NotatApp.csproj.CoreCompileInputs.cache
+D:\Code\GET Academy\Modul 3\NotatApp\NotatApp\obj\Debug\net6.0-windows\NotatApp.dll
+D:\Code\GET Academy\Modul 3\NotatApp\NotatApp\obj\Debug\net6.0-windows\refint\NotatApp.dll
+D:\Code\GET Academy\Modul 3\NotatApp\NotatApp\obj\Debug\net6.0-windows\NotatApp.pdb
+D:\Code\GET Academy\Modul 3\NotatApp\NotatApp\obj\Debug\net6.0-windows\NotatApp.genruntimeconfig.cache
+D:\Code\GET Academy\Modul 3\NotatApp\NotatApp\obj\Debug\net6.0-windows\ref\NotatApp.dll
